@@ -1,0 +1,7 @@
+===== PLACEMENT REPORT =====
+Total Students      : 2
+Total Jobs          : 1
+Total Applications  : 2
+PENDING             : 1
+SELECTED            : 1
+REJECTED            : 0
