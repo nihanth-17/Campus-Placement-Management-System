@@ -28,3 +28,16 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# Compiled output
+out/
+bin/
+target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
